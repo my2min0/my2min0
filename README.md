@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&text=Hi,%I'm%20LeeMinyoung👋&fontSize=35&fontColor=#000000)
+![header](https://capsule-render.vercel.app/api?type=cylinder&text=Hi,%20I'm%20LeeMinyoung👋&fontSize=35&fontColor=#000000)
 
 
 📫 Contact me: [ffrf1234tina@gmail.com](mailto:ffrf1234tina@gmail.com)  
