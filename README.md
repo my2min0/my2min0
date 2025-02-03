@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder)
-👋 Hi, I’m @my2min0 <br>
+![header](https://capsule-render.vercel.app/api?text=Hi,%I'm%LeeMinyoung👋&type=cylinder)
+
+
 📫 Contact me: [ffrf1234tina@gmail.com](mailto:ffrf1234tina@gmail.com)  
 
 <br>
